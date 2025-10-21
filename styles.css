@@ -1,0 +1,47 @@
+.flex-container{
+    display: flex;
+}
+
+.header {
+    flex:auto;
+    background-color: #1f2937;
+    font-size: 24px;
+    color: white;
+    font-family: fantasy;
+    justify-content:space-between;
+    padding-left: 40px;
+}
+
+.flex-container.link{
+    background-color: #1f2937;
+    font-size: 18px;
+    color: white;
+    font-family: fantasy;
+    justify-content: space-between;
+    gap: 10px;
+    padding:10px;
+    padding-right: 30px;
+
+}
+
+.link.header1{
+    
+    font-size: 18px;
+    color: white;
+
+    
+}
+
+.link.header2{
+
+    font-size: 18px;
+    color: white;
+
+}
+
+.link.header3{
+
+    font-size: 18px;
+    color: white;
+
+}
